@@ -1,2 +1,2 @@
-# class6-code
-Skeleton for the class 6 lab.
+# class7-code
+Skeleton for Lab 1.
